@@ -534,7 +534,8 @@
       "name": "js variable readwrite",
       "scope": ["variable.other.readwrite", "variable.parameter"],
       "settings": {
-        "foreground": "#ebfcfc"
+        // "foreground": "#ebfcfc"
+        "foreground": "#fd7e85"
       }
     },
     {
